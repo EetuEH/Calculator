@@ -1,2 +1,2 @@
 # Calculator
-Simple Java calculator
+Simple Java calculator. GUI made using Eclipse WindowBuilder
